@@ -3,7 +3,8 @@
 Repo provides a Python script for translating the contents of Excel files between different languages.
 
 ---
-### Project: Tackling the Translation Challenge
+### Tackling the Translation Challenge
+
 
 Finding the right tool to translate files with numerical data can be surprisingly tricky. Often, built-in Excel features, macros, or online resources don’t quite cut it, especially when translating specific language pairs. 
 
