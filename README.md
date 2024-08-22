@@ -1,9 +1,5 @@
 # excel-anylang-translator
 
-Here is a description focused solely on the Excel translation tool:
-
----
-
 # Excel Translation Tool
 
 Repo provides a Python script for translating the contents of Excel files between different languages.
