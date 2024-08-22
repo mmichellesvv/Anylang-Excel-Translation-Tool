@@ -23,7 +23,7 @@ python 3.11.9
 pip install translate pandas
 ```
 ## Catalogue Translation
-af - Afrikaans
+af - Afrikaans\n
 sq - Albanian
 ar - Arabic
 hy - Armenian
