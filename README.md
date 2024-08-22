@@ -42,3 +42,10 @@ This will process the first `.xlsx` file found in the directory and save the tra
 This project is licensed under the MIT License - see the MIT.md file for details.
 
 ---
+# In-data:
+![image](https://github.com/user-attachments/assets/cd30acbc-b18b-4c26-83cf-563842a84a22)
+
+# Out-data:
+![image](https://github.com/user-attachments/assets/8ebe372a-7ef3-437d-84d0-24626a0ae6a4)
+
+---
