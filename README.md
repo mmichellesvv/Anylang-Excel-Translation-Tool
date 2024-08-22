@@ -30,7 +30,8 @@ pip install translate pandas
 
 ## Usage
 
-Run the translation script from the command line as follows:
+1. Download the translate_excel.py file. Place it along with aimed .xlsx file in the same folder. Open a terminal and navigate to this folder.
+2. Run the translation script from the command line as follows:
 ```bash
 python translate_excel.py [from_lang] [to_lang]
 ```
@@ -47,7 +48,7 @@ To translate an Excel file from Russian to Ukrainian:
 python translate_excel.py ru uk
 ```
 
-**IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory. **Ensure that only the Excel file you want to translate is in the folder!**
+**IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory. **Ensure that only one excel file you want to translate is in the folder!**
 
 ## License
 
