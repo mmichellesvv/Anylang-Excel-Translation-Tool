@@ -1,14 +1,14 @@
 # Excel Translation Tool
 
-### Project Description: Tackling the Translation Challenge
+Repo provides a Python script for translating the contents of Excel files between different languages.
+
+### Project: Tackling the Translation Challenge
 
 Finding the right tool to translate files with numerical data can be surprisingly tricky. Often, built-in Excel features, macros, or online resources don’t quite cut it, especially when translating specific language pairs. 
 
 I ran into this problem myself while trying to translate files from Russian to Ukrainian for business documentation. Existing tools just weren't up to the task. So, I created a custom tool to handle this specific translation need, making it easier to convert data files accurately and meet business requirements.
 
 ---
-
-Repo provides a Python script for translating the contents of Excel files between different languages.
 
 ## Features
 
@@ -30,14 +30,14 @@ pip install translate pandas
 
 ## Usage
 
-1. Download the translate_excel.py file. Place it along with aimed .xlsx file in the same folder. Open a terminal and navigate to this folder.
+1. Download the **translate_excel.py** file. Place it along with aimed .xlsx file in the same folder. Open a terminal and navigate to this folder.
 2. Run the translation script from the command line as follows:
 ```bash
 python translate_excel.py [from_lang] [to_lang]
 ```
 - `from_lang`: The language code of the source language (e.g., `"ru"` for Russian).
 - `to_lang`: The language code of the target language (e.g., `"uk"` for Ukrainian).
-- 
+  
 ## Languages Catalogue
 Look into - **catalogue.txt**
 
