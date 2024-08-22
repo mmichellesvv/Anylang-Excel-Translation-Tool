@@ -20,8 +20,11 @@ Repo provides a Python script for translating the contents of Excel files betwee
 ## Installation
 
 To install the required libraries, run:
+
 ```bash
 python 3.11.9
+```
+```bash
 pip install translate pandas
 ```
 ## Catalogue Translation
