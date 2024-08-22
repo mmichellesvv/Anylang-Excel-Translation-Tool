@@ -47,7 +47,7 @@ To translate an Excel file from Russian to Ukrainian:
 python translate_excel.py ru uk
 ```
 
-**IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory. **Ensure that only the file you want to translate is in the folder!**
+**IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory. **Ensure that only the Excel file you want to translate is in the folder!**
 
 ## License
 
