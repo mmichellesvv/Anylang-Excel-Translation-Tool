@@ -3,8 +3,7 @@
 Repo provides a Python script for translating the contents of Excel files between different languages.
 
 ---
-### Tackling the Translation Challenge
-
+### Tackling the translation challenge
 
 Finding the right tool to translate files with numerical data can be surprisingly tricky. Often, built-in Excel features, macros, or online resources don’t quite cut it, especially when translating specific language pairs. 
 
@@ -52,12 +51,12 @@ python translate_excel.py ru uk
 
 **IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory. **Ensure that only one excel file you want to translate is in the folder!**
 
-## License
+#### License
 
 This project is licensed under the MIT License - see the MIT.md file for details.
 
 ---
-# In-data:
+### In-data:
 <img src="https://github.com/user-attachments/assets/f4880462-4cca-4059-9a3f-a4819146463b" alt="Description of image" width="700"/>
 
 # Out-data:
