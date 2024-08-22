@@ -27,8 +27,6 @@ python 3.11.9
 ```bash
 pip install translate pandas
 ```
-## Catalogue Translation
-Look into - **catalogue.txt**
 
 ## Usage
 
@@ -38,15 +36,18 @@ python translate_excel.py [from_lang] [to_lang]
 ```
 - `from_lang`: The language code of the source language (e.g., `"ru"` for Russian).
 - `to_lang`: The language code of the target language (e.g., `"uk"` for Ukrainian).
+- 
+## Languages Catalogue
+Look into - **catalogue.txt**
 
 ### Example
 
-To translate an Excel file from Russian to English:
+To translate an Excel file from Russian to Ukrainian:
 ```bash
 python translate_excel.py ru uk
 ```
 
-This will process the first `.xlsx` file found in the directory and save the translated file with a prefix indicating the target language.
+**IMPORTANT**: This script will process the **first** .xlsx file it finds in the directory and save the translated file with a prefix indicating the target language. **Ensure that only the file you want to translate is in the folder!**
 
 ## License
 
