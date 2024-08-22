@@ -55,11 +55,9 @@ python translate_excel.py ru uk
 
 This project is licensed under the MIT License - see the MIT.md file for details.
 
----
 ## In-data:
 <img src="https://github.com/user-attachments/assets/f4880462-4cca-4059-9a3f-a4819146463b" alt="Description of image" width="700"/>
 
----
 ## Out-data:
 <img src="https://github.com/user-attachments/assets/c0eb7a1f-dfcd-4718-8c74-7fee61e1e210" alt="Description of image" width="700"/>
 
