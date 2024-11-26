@@ -7,7 +7,7 @@ Repo provides a Python script for translating the contents of Excel files betwee
 
 Finding the right tool to translate files with numerical data can be surprisingly tricky. Often, built-in Excel features, macros, or online resources don’t quite cut it, especially when translating specific language pairs. 
 
-I ran into this problem myself while trying to translate files from Russian to Ukrainian for business documentation. Existing tools just weren't up to the task. So, I created a custom tool to handle this specific translation need, making it easier to convert data files accurately and meet business requirements.
+One day I ran into this problem while trying to translate files from Russian to Ukrainian for business documentation. Existing tools just weren't up to the task. So, that's how appeared idea of creating a custom tool to handle this specific translation need, making it easier to convert data files accurately and meet business requirements.
 
 ---
 
